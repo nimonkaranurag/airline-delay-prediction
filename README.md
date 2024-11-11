@@ -2,6 +2,8 @@
 # Airline Delay Prediction
 
 This project aims to analyze and predict airline delays using PySpark for data processing and machine learning, Docker for containerization, and Jupyter for interactive data analysis.
+The link to the dataset is here : https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018
+I used the 2018 dataset for my training.
 
 ## Project Structure
 ```
